@@ -23,9 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IServer\IServer.csproj" />
-    <ProjectReference Include="..\Server\Server.csproj" />
-    <ProjectReference Include="..\Systems\Systems.csproj" />
+    <ProjectReference Include=".\IServer\IServer.csproj" />
+    <ProjectReference Include=".\Server\Server.csproj" />
+    <ProjectReference Include=".\Systems\Systems.csproj" />
   </ItemGroup>
 
   <ItemGroup>
