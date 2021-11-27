@@ -5,20 +5,6 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NETJDC", "NETJDC.csproj", "{F5F1B30E-652F-4C34-B713-5FE4B09D65CF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JdService", "..\JdService\JdService.csproj", "{3FF56C7C-67C9-4766-B1FF-A41F3153671A}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jtest", "..\Jtest\Jtest.csproj", "{F2755F1D-A3B0-4875-A888-BE74F2A23263}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Systems", "..\Systems\Systems.csproj", "{13125301-F5A4-439A-A7C3-1FFF8D6B7991}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IServer", "..\IServer\IServer.csproj", "{9F5798B6-CC9A-4F0A-B34F-210ACF28BAAB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "..\Server\Server.csproj", "{A7B55AA1-0865-44EE-9FEB-3B0E39EA5E16}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "License", "..\License\License.csproj", "{654F3BE2-6777-4F9B-9DC5-74D0E11E263F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageMove", "..\PageMove\PageMove.csproj", "{9AF9179B-22ED-49D5-A27D-885E13F379D4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
