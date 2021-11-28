@@ -27,3 +27,6 @@ jobs:
           Configuration: ${{ matrix.configuration }}
       - name: Upload dotnet test results
         uses: actions/upload-artifact@v2
+        with:
+          name: my-artifact
+          path: D:\a\test_net\test_net\
