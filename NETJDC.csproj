@@ -23,12 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include=".\IServer\IServer.csproj" />
-    <ProjectReference Include=".\Server\Server.csproj" />
-    <ProjectReference Include=".\Systems\Systems.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Update="wwwroot\index.html">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
